@@ -7,15 +7,19 @@
 
 # End-Point: Criar Autor
 
-### Criar a pasta 'Dto', dentro a 'Dto' a pasta 'Autor' e dentro da pasta 'Autor' criar a Classe 'AutorCriacaoDto.cs'
+1. Criar a pasta 'Dto', dentro a 'Dto' a pasta 'Autor' e dentro da pasta 'Autor' criar a Classe 'AutorCriacaoDto.cs'
 
-- Na classe incluir as propriedades Nome e Sobrenome que serão preenchidos
+2. Na classe incluir as propriedades Nome e Sobrenome que serão preenchidos
 
 <img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/01_Classe_Criar_AutorDto.png"/>  
 
-### Criar o método 'CriarAutor' dentro da classe de Interface 'IAutorInterface.cs'
+3. Criar o método 'CriarAutor' dentro da classe de Interface 'IAutorInterface.cs'
 
 <img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/02_Criar_Autor_Interface.png"/> 
+
+4. Após a inclusão do método na 'IAutorInterface.cs', ir na AutorService e selecionar 'CTRL'  '.'  e selecionar a opção 'Implementar Interface'.
+   
+<img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/03_AutorService_CriarAutor.png"/>
 
 
 
