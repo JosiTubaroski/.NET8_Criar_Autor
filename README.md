@@ -13,8 +13,10 @@
 
 <img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/01_Classe_Criar_AutorDto.png"/>  
 
-
-
 ### Criar o método 'CriarAutor' dentro da classe de Interface 'IAutorInterface.cs'
+
+<img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/02_Criar_Autor_Interface.png"/> 
+
+
 
 
