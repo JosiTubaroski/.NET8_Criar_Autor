@@ -21,6 +21,8 @@
    
 <img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/03_AutorService_CriarAutor.png"/>
 
+5. Criar o método [HttpPost("CriarAutor")] na AutorControler
 
+<img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/04_CriarAutor_AutorContoler.png"/>
 
 
