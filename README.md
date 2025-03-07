@@ -25,4 +25,10 @@
 
 <img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/04_CriarAutor_AutorContoler.png"/>
 
+6. Selecionar F5, e testar o EndPoint POST /api/Autor/CriarAutor
 
+<img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/05_Post_CriarAutor_1.png"/>
+
+<img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/06_Post_Request.png"/>
+
+<img src="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/img/07_Response.png"/>
